@@ -5,6 +5,4 @@ two moons
 retrograde 
 4th planet
 A place I'd like to live
-I created this at TMP
-
-
+Change made in markp/planets
